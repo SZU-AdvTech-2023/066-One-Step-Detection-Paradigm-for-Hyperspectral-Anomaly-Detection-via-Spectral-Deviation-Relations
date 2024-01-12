@@ -1,0 +1,6 @@
+@article{REPO066,
+    author = "Li, Jingtao and Wang, Xinyu and Wang, Shaoyu and Zhao, Hengwei and Zhang, Liangpei and Zhong, Yanfei",
+    journal = "arXiv preprint arXiv:2303.12342",
+    title = "{One-Step Detection Paradigm for Hyperspectral Anomaly Detection via Spectral Deviation Relationship Learning}",
+    year = "2023"
+}
