@@ -1,0 +1,122 @@
+runner_module: runners.runner_TDD - runner_TDD
+random_seed: 111
+params:
+  epochs: 10
+  device: cuda:0
+  batch_size: 1
+  training_channels: 135
+  image_size: 224
+  warm_up_n_iters: 100
+
+model:
+  name: models.TDD_seg_model - TDD_seg_model
+  args:
+    n_channels: 135
+  ckpt_dir: ''
+  R: 3.0
+
+transforms:
+  train:
+    - name: albumentations - ToFloat
+      args:
+        max_value: 396., 538., 676., 822., 980., 1133., 1247., 1342., 1637., 1851.,
+          2225., 2460., 2715., 2937., 3113., 3138., 3271., 3419., 3428., 3490.,
+          3437., 3525., 3525., 3545., 3604., 3549., 3544., 3552., 3622., 3593.,
+          3608., 3614., 3581., 3617., 3616., 3655., 3641., 3613., 3582., 3503.,
+          3529., 3557., 3493., 3446., 3410., 3474., 3506., 3472., 3466., 3390.,
+          3383., 3300., 3174., 3164., 3122., 3065., 2920., 2814., 2729., 2819.,
+          2819., 2732., 2635., 2580., 2445., 2133., 2103., 2140., 2111., 2078.,
+          2071., 1941., 1563., 1532., 1505., 1593., 1677., 1679., 1702., 1643.,
+          1553., 1180., 786., 1165., 1328., 1345., 1296., 1251., 1174., 1109.,
+          1080., 1050., 1005., 862., 744., 739., 756., 740., 759., 790.,
+          777., 751., 710., 711., 710., 659., 649., 657., 624., 588.,
+          563., 518., 425., 380., 390., 341., 324., 336., 332., 275.,
+          198., 168., 179., 173., 172., 178., 186., 192., 204., 214.,
+          204., 204., 210., 206., 206.
+    - name: albumentations - Resize
+      args:
+        height: ${params.image_size}
+        width: ${params.image_size}
+        p: 1
+        interpolation: 0
+    - name: albumentations.pytorch - ToTensorV2
+      args:
+        p: 1
+  test:
+    - name: albumentations - Resize
+      args:
+        height: ${params.image_size}
+        width: ${params.image_size}
+        interpolation: 0
+        p: 1
+    - name: albumentations.pytorch - ToTensorV2
+      args:
+        p: 1
+datasets:
+  train:
+    name: datasets.HSIDataset_Training - HSIDataset_Training
+    args:
+      img_dir: D:/PapersCode/TDD-master-zt/data/WHU-Hi-River/training_patches/img_patch_20_stride_10
+      max_height: 13
+      min_height: 7
+  test:
+    name: datasets.HSIDataset_Inferring - HSIDataset_Inferring
+    args:
+      img_dir:
+        - D:/PapersCode/TDD-master-zt/data/HYDICE/image.img
+        - D:/PapersCode/TDD-master-zt/data/Cri/Cri.img
+        - D:/PapersCode/TDD-master-zt/data/WHU-Hi-River/WHU-Hi-River.img
+        - D:/PapersCode/TDD-master-zt/data/AVIRIS-1/image.img
+      mask_dir:
+        - D:/PapersCode/TDD-master-zt/data/HYDICE/mask_urban.img
+        - D:/PapersCode/TDD-master-zt/data/Cri/cri_mask.img
+        - D:/PapersCode/TDD-master-zt/data/WHU-Hi-River/Target_mask.img
+        - D:/PapersCode/TDD-master-zt/data/AVIRIS-1/label.img
+      test_patch_sizes:
+        - 10
+        - 100
+        - 20
+        - 50
+      test_pad_sizes:
+        - 5
+        - 100
+        - 10
+        - 25
+      normalize:
+        - true
+        - true
+        - false
+        - true
+      test_input_sizes:
+        - 224
+        - 224
+        - 224
+        - 224
+      training_channels: ${params.training_channels}
+dataloaders:
+  train:
+    name: torch.utils.data - DataLoader
+    args:
+      batch_size: ${params.batch_size}
+      num_workers: 3
+      pin_memory: true
+      shuffle: true
+  test:
+    name: torch.utils.data - DataLoader
+    args:
+      batch_size: 1
+      num_workers: 3
+      pin_memory: true
+      shuffle: false
+optimizer:
+  name: torch.optim - Adam
+  args:
+    lr: 0.0001
+    weight_decay: 1.0e-05
+scheduler:
+  name: torch.optim.lr_scheduler - CosineAnnealingWarmRestarts
+  args:
+    T_0: 10
+    T_mult: 2
+    eta_min: 0.0001
+    last_epoch: -1

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="050da649-3a4d-4965-b2a2-9fda7e34f886" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="2XWam0m7kXC1jlUiNi4jbNAju3L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TDD-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PapersCode\TDD-master-zt\datasets" />
+      <recent name="D:\PapersCode\TDD-master-zt\outputs\2023-11-29" />
+      <recent name="D:\PapersCode\TDD-master-zt\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PapersCode\TDD-master-zt\data\ABU\mat" />
+      <recent name="D:\PapersCode\TDD-master-zt\configs\ABU" />
+      <recent name="D:\PapersCode\TDD-master-zt\data\ABU" />
+      <recent name="D:\PapersCode\TDD-master-zt" />
+      <recent name="D:\PapersCode\TDD-master-zt\datasets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="GetMaxValues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TDD-master-zt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/GetMaxValues.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Read_image (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TDD-master-zt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/Read_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cropping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TDD-master-zt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/cropping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file2img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TDD-master-zt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/file2img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TDD-master-zt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.GetMaxValues" />
+        <item itemvalue="Python.cropping" />
+        <item itemvalue="Python.file2img" />
+        <item itemvalue="Python.Read_image (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="050da649-3a4d-4965-b2a2-9fda7e34f886" name="Default Changelist" comment="" />
+      <created>1698747444861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698747444861</updated>
+      <workItem from="1698747446569" duration="2079000" />
+      <workItem from="1698749678401" duration="17000" />
+      <workItem from="1698821853158" duration="5424000" />
+      <workItem from="1698890768456" duration="38387000" />
+      <workItem from="1699269981980" duration="1829000" />
+      <workItem from="1699596725805" duration="1162000" />
+      <workItem from="1699600963780" duration="264000" />
+      <workItem from="1699621447942" duration="1712000" />
+      <workItem from="1700376368455" duration="4656000" />
+      <workItem from="1700400084756" duration="565000" />
+      <workItem from="1700402264114" duration="43000" />
+      <workItem from="1700446075218" duration="2967000" />
+      <workItem from="1700529800751" duration="37000" />
+      <workItem from="1700640982604" duration="20000" />
+      <workItem from="1700656738143" duration="5626000" />
+      <workItem from="1700706734164" duration="12011000" />
+      <workItem from="1700737604864" duration="28698000" />
+      <workItem from="1700837718254" duration="20000" />
+      <workItem from="1701154465433" duration="821000" />
+      <workItem from="1701169122418" duration="1158000" />
+      <workItem from="1701179768634" duration="546000" />
+      <workItem from="1701225352093" duration="12006000" />
+      <workItem from="1701268678433" duration="24039000" />
+      <workItem from="1701352885680" duration="1640000" />
+      <workItem from="1701354621415" duration="3177000" />
+      <workItem from="1701412754485" duration="13341000" />
+      <workItem from="1701443116327" duration="1172000" />
+      <workItem from="1701444301609" duration="7969000" />
+      <workItem from="1701484703487" duration="13165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="125" key="#Deployment" timestamp="1700704846774">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="411" y="125" key="#Deployment/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1700704846774" />
+    <state x="309" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1701447657052">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="309" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.912@0.0.1707.912" timestamp="1701447657052" />
+    <state x="-1254" y="467" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1701169241685">
+      <screen x="-1920" y="174" width="1920" height="1032" />
+    </state>
+    <state x="-1254" y="467" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.912/-1920.174.1920.1032@-1920.174.1920.1032" timestamp="1701169241685" />
+    <state x="592" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1698893910906" />
+    <state x="592" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.912@0.0.1707.912" timestamp="1698923692420" />
+    <state x="584" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1701444161664">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="584" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701422934635" />
+    <state x="584" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.912@0.0.1707.912" timestamp="1701444161664" />
+    <state x="1012" y="438" width="488" height="401" key="#xdebugger.evaluate" timestamp="1701449676254">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="1012" y="438" width="488" height="401" key="#xdebugger.evaluate/0.0.1707.912@0.0.1707.912" timestamp="1701449676254" />
+    <state width="1022" height="466" key="DebuggerActiveHint" timestamp="1701417497511">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1022" height="466" key="DebuggerActiveHint/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701417497511" />
+    <state x="634" y="212" key="FileChooserDialogImpl" timestamp="1701526543792">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="1104" y="235" key="FileChooserDialogImpl/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701308571854" />
+    <state x="634" y="212" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1701526543792" />
+    <state width="1663" height="135" key="GridCell.Tab.0.bottom" timestamp="1701526933509">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1707.912/-1920.174.1920.1032@-1920.174.1920.1032" timestamp="1701170281633" />
+    <state width="1663" height="46" key="GridCell.Tab.0.bottom/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986573" />
+    <state width="1663" height="135" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1701526933509" />
+    <state width="1663" height="135" key="GridCell.Tab.0.center" timestamp="1701526933509">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1707.912/-1920.174.1920.1032@-1920.174.1920.1032" timestamp="1701170281633" />
+    <state width="1663" height="46" key="GridCell.Tab.0.center/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986573" />
+    <state width="1663" height="135" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1701526933509" />
+    <state width="1663" height="135" key="GridCell.Tab.0.left" timestamp="1701526933509">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1707.912/-1920.174.1920.1032@-1920.174.1920.1032" timestamp="1701170281633" />
+    <state width="1663" height="46" key="GridCell.Tab.0.left/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986573" />
+    <state width="1663" height="135" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1701526933509" />
+    <state width="1663" height="135" key="GridCell.Tab.0.right" timestamp="1701526933509">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1707.912/-1920.174.1920.1032@-1920.174.1920.1032" timestamp="1701170281633" />
+    <state width="1663" height="46" key="GridCell.Tab.0.right/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986573" />
+    <state width="1663" height="135" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1701526933509" />
+    <state width="1663" height="271" key="GridCell.Tab.1.bottom" timestamp="1701452332960">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="412" key="GridCell.Tab.1.bottom/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986568" />
+    <state width="1663" height="271" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1701452332960" />
+    <state width="1663" height="271" key="GridCell.Tab.1.center" timestamp="1701452332960">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="412" key="GridCell.Tab.1.center/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986568" />
+    <state width="1663" height="271" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1701452332960" />
+    <state width="1663" height="271" key="GridCell.Tab.1.left" timestamp="1701452332960">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="412" key="GridCell.Tab.1.left/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986568" />
+    <state width="1663" height="271" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1701452332960" />
+    <state width="1663" height="271" key="GridCell.Tab.1.right" timestamp="1701452332960">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="412" key="GridCell.Tab.1.right/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701433986568" />
+    <state width="1663" height="271" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1701452332960" />
+    <state x="283" y="153" key="SettingsEditor" timestamp="1700727654871">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="283" y="153" key="SettingsEditor/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1700727654871" />
+    <state x="355" y="99" key="SettingsEditor/0.0.1707.912@0.0.1707.912" timestamp="1700379646678" />
+    <state x="538" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1698890947739">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="538" y="281" key="com.intellij.ide.util.TipDialog/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1698890947739" />
+    <state x="591" y="184" width="822" height="600" key="find.popup" timestamp="1701485516766">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="848" y="167" width="859" height="600" key="find.popup/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1701421623019" />
+    <state x="591" y="184" width="822" height="600" key="find.popup/0.0.1707.912@0.0.1707.912" timestamp="1701485516766" />
+    <state x="750" y="186" width="363" height="538" key="ftp.server.browser" timestamp="1700704972721">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="750" y="186" width="363" height="538" key="ftp.server.browser/0.0.1707.912/-1920.174.1920.1032@0.0.1707.912" timestamp="1700704972721" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Environment/anaconda3/envs/TDD/Lib/site-packages/sklearn/utils/validation.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="matfile" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TDD_master_zt$HSIDataset_Training.coverage" NAME="HSIDataset_Training Coverage Results" MODIFIED="1700730606232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/TDD_master$auroc.coverage" NAME="auroc Coverage Results" MODIFIED="1698925113369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metrics" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1701418040588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$cropping.coverage" NAME="cropping Coverage Results" MODIFIED="1701444907003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$GetMaxValues.coverage" NAME="GetMaxValues Coverage Results" MODIFIED="1701484840871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$run.coverage" NAME="run Coverage Results" MODIFIED="1701487646205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TDD_master$run.coverage" NAME="run Coverage Results" MODIFIED="1698987181048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$Read_image__1_.coverage" NAME="Read_image (1) Coverage Results" MODIFIED="1701422913108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$TDD_seg_model.coverage" NAME="TDD_seg_model Coverage Results" MODIFIED="1700727793180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$file2img.coverage" NAME="file2img Coverage Results" MODIFIED="1701444680948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$test.coverage" NAME="test Coverage Results" MODIFIED="1701334418721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TDD_master_zt$runner_TDD.coverage" NAME="runner_TDD Coverage Results" MODIFIED="1701313871144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runners" />
+  </component>
+</project>
